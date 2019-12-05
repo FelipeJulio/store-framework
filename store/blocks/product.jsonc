@@ -26,10 +26,13 @@
     ],
     "props": {
       "verticalAlign": "middle",
-      "preventVerticalStretch ": "height: 100%",
+      "preventVerticalStretch": false
+    }
+  },
+  "product-price": {
+    "props": {
       "showSavings": true,
-      "showListPrice": true
-
+      "showListPrice ": true
     }
   }
 }
